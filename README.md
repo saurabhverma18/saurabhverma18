@@ -6,11 +6,11 @@
 
 ## 🙋&zwj;♂️ About Me
 <ul dir="auto">
-<li>👨🏽&zwj;💻 I'm currently learning to create Web based Projects and API's</li>
-<li>👯 I’m looking to collaborate on an <strong>OpenSource Projects</strong></li>
+<li>👨🏽&zwj;💻 I'm currently learning to create Web based Projects and API's.</li>
+<li>👯 I’m looking to collaborate on an <strong>OpenSource Projects.</strong></li>
 <li>👨&zwj;💻 All of my projects are available at <strong><a href="https://github.com/saurabhverma18?tab=repositories">My Github Account</a></strong></li>
-<li>📫 You can reach and connect with me over my <a href="https://www.linkedin.com/in/saurabhverma18/" rel="follow"><strong> LinkedIn</a></strong> or <a href="https://www.instagram.com/__saurabhverma__/"><strong>Instagram</li>
-<li>🧗 I try to: Go beyond and push the bounds</li>
+<li>📫 You can reach and connect with me over my <a href="https://www.linkedin.com/in/saurabhverma18/" rel="follow"><strong> LinkedIn</a></strong> or <a href="https://www.instagram.com/__saurabhverma__/"><strong>Instagram.</li>
+<li>🧗 I strive to push boundaries and achieve excellence in everything I do, constantly learning and growing.</li>
 <li>⚡ Fun fact: <strong>When I'm not coding, you can find me reading sci-fi novels or exploring new tech gadgets.</strong></li>
 </ul>
 
@@ -37,7 +37,7 @@
   
 <div style="display: flex; justify-content: center; align-items: center;">
   <p dir="auto">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhverma18&show_icons=true&hide=prs,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" alt="Saurabh's Github Stat's" style="height: 200px; width: auto; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhverma18&show_icons=true&hide=prs,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" alt="Saurabh's Github Stat's" style="height: 200px; width: 600px; margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhverma18&show_icons=true&locale=en&layout=donut" alt="saurabhverma18" style="height: 200px; width: auto;">
   </p>
 </div>
