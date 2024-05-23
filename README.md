@@ -37,7 +37,7 @@
   
 <div style="display: flex; justify-content: center; align-items: center;">
   <p dir="auto">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhverma18&show_icons=true&hide=prs,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" alt="Saurabh's Github Stat's" style="height: 200px; width: 600px; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhverma18&show_icons=true&hide=prs,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" alt="Saurabh's Github Stat's" style="height: 200px; width: 400px; margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhverma18&show_icons=true&locale=en&layout=donut" alt="saurabhverma18" style="height: 200px; width: auto;">
   </p>
 </div>
