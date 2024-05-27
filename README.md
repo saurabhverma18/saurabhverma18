@@ -2,7 +2,9 @@
 <h3 align="center">I'm an aspiring developer and a Competitive Coding Enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saurabhverma18&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhverma18" />
-<a href="https://github.com/saurabhverma18?tab=followers"><img src="https://camo.githubusercontent.com/98126cac7c99a741cb1f8289fca5140d48ae55f803bc0489dcb01cd4e117c430/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6268616e757368756b6c61613f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/saurabhverma18?label=Followers&amp;style=social" style="max-width: 100%;"></a> </p>
+<a href="https://github.com/saurabhverma18?tab=followers">
+  <img src="https://img.shields.io/github/followers/saurabhverma18?label=Followers&style=social" alt="GitHub Followers">
+</a></p>
 
 ## 🙋&zwj;♂️ About Me
 <ul dir="auto">
