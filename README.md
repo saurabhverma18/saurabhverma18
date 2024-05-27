@@ -7,7 +7,6 @@
 </a></p>
 
 ## 🙋&zwj;♂️ About Me
-<!--image man round roung--><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" height="250px">
 <ul dir="auto">
 <li>👨🏽&zwj;💻 I'm currently learning to create Web based Projects and API's.</li>
 <li>👯 I’m looking to collaborate on an <strong>OpenSource Projects.</strong></li>
